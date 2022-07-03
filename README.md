@@ -1,5 +1,5 @@
 # A naturalistic observation study of biosafety and environmental sampling for Salmonella contamination in a veterinary health-care setting
-Hannah Padda, Alison Stout, Sebastian Llanos Soto, Sarah Murphy, Rebecca J. Franklin-Guild, John Beeby, Gillian A. Perkins, Laura Goodman, Craig Altier, and Renata Ivanek 
+*Hannah Padda, Alison Stout, Sebastian Llanos Soto, Sarah Murphy, Rebecca J. Franklin-Guild, John Beeby, Gillian A. Perkins, Laura Goodman, Craig Altier, and Renata Ivanek*
 
 This is a naturalistic observation study to characterize the environment and human behavior aspects of biosafety in a large animal veterinary teaching hospital in the Northeast USA, the Cornell University Nemo Farm Animal Hospital. 
 
